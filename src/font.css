@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'HammerSmithOne';
+    src: local('HammerSmithOne'), url("./fonts/HammerSmithOne.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    src: local('Merriweather'), url("./fonts/Merriweather.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: local('Inter'), url("./fonts/Inter.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Grandstander';
+    src: local('Grandstander'), url("./fonts/Grandstander.ttf") format("truetype");
+}
