@@ -3,7 +3,7 @@
 
 This is a personal portfolio website developed using **React.js** during my frontend internship at **Orta Anadolu** in **July 2023**. The goal was to create a modern, responsive, and dynamic portfolio site that showcases my projects, skills, and development style.
 
-🌐 **Live Site**: [recepborekci.com](http://recepborekci.com)
+🌐 **Live Site**: [recepborekci.com](https://recepborekci.com)
 
 ---
 
@@ -28,7 +28,7 @@ During this internship, I built this portfolio project from scratch, implementin
 | **Frontend** | React.js, React Router, React Scroll, React Helmet |
 | **Styling** | Bootstrap, Material UI (`@mui/material`, `@material-ui/core`), Emotion |
 | **Utilities** | React Responsive, Material Icons |
-| **Deployment** | Static site hosted at [recepborekci.com](http://recepborekci.com) |
+| **Deployment** | Static site hosted at [recepborekci.com](https://recepborekci.com) |
 | **Testing** | Testing Library (React, User Event, Jest DOM) |
 
 ---
